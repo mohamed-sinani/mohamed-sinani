@@ -46,39 +46,39 @@
 ### **DevMeddy** - *Innovating one line of code at a time*
 Building practical solutions for everyday challenges:
 
-#### **🎯 [UndaCV](https://dev.mohamedsinani.projects/)**  
+#### **🎯 [UndaCV](https://undacv.cloud/)**  
 A powerful CV and resume builder platform for professionals.
 
-#### **💬 [TumaMaoni](https://dev.mohamedsinani.projects/)**  
+#### **💬 [TumaMaoni](https://tumamaoni.com/)**  
 Feedback collection and management system for businesses.
 
-#### **💰 [PangaBajeti](https://dev.mohamedsinani.projects/)**  
+#### **💰 [PangaBajeti](https://pangabajeti.undacv.cloud/)**  
 Personal finance and budget planning tool.
 
-#### **🌤️ [AngaYetu](https://dev.mohamedsinani.projects/)**  
+#### **🌤️ [AngaYetu](https://angayetu.online/)**  
 Weather monitoring and forecasting platform.
 
-#### **🛒 [NuruFeed Store](https://dev.mohamedsinani.projects/)**  
+#### **🛒 [NuruFeed Store](https:///)**  
 Website for a local store to sell products online.
 
 ---
 
 ## 🎯 **Current Focus**
-- **Building scalable PHP applications** with Symfony
-- **Integrating AI capabilities** into existing platforms
-- **Enhancing cybersecurity** measures for web applications
-- **Expanding DevMeddy** product portfolio
-- **Mentoring aspiring developers** in Tanzania
+Building scalable PHP applications & Other Languages**
+Integrating AI capabilities** into existing platforms
+Enhancing cybersecurity** measures for web applications and Educating others
+Expanding DevMeddy** product portfolio
+Mentoring aspiring developers** in Tanzania and other places as well.
 
 ---
 
 ## 🤝 **Let's Collaborate**
 Looking to partner on:
-- **Web Application Development** (PHP/Symfony)
-- **Cybersecurity Audits & Implementation**
-- **AI Integration Projects**
-- **Entrepreneurial Ventures**
-- **Open Source Contributions**
+Web Application Development** (PHP, Js, Html, React)
+Cybersecurity & Privacy**
+AI Integration Projects**
+Entrepreneurial Ventures**
+Open Source Contributions**
 
 ---
 
@@ -86,7 +86,7 @@ Looking to partner on:
 
 ## 📫 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sinani-056383228/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sinani//)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mohamed-sinani)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=googlechrome&logoColor=white)](https://dev.mohamedsinani.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:dev@mohamedsinani.com)
