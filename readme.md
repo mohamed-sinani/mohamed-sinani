@@ -58,27 +58,18 @@ Personal finance and budget planning tool.
 #### **🌤️ [AngaYetu](https://angayetu.online/)**  
 Weather monitoring and forecasting platform.
 
-#### **🛒 [NuruFeed Store](https:///)**  
+#### **🛒 [NuruFeed Store](https://nurufeed-store.netlify.app/)**  
 Website for a local store to sell products online.
 
 ---
 
 ## 🎯 **Current Focus**
-Building scalable PHP applications & Other Languages**
-Integrating AI capabilities** into existing platforms
-Enhancing cybersecurity** measures for web applications and Educating others
-Expanding DevMeddy** product portfolio
-Mentoring aspiring developers** in Tanzania and other places as well.
+Building scalable PHP applications & Other Languages, Integrating AI capabilities into existing platforms, Enhancing cybersecurity, measures for web applications and Educating others, Expanding DevMeddy product portfolio, Guiding & mentoring aspiring developers, in Tanzania and other places as well.
 
 ---
 
 ## 🤝 **Let's Collaborate**
-Looking to partner on:
-Web Application Development** (PHP, Js, Html, React)
-Cybersecurity & Privacy**
-AI Integration Projects**
-Entrepreneurial Ventures**
-Open Source Contributions**
+Looking to partner on: Web Application Development (PHP, Js, Html, React), Cybersecurity & Privacy topics, AI Integration Projects, Entrepreneurial Ventures, Open Source Contributions
 
 ---
 
