@@ -52,7 +52,7 @@ A powerful CV and resume builder platform for professionals.
 #### **💬 [TumaMaoni](https://tumamaoni.com/)**  
 Feedback collection and management system for businesses.
 
-#### **🛒 [Work-Timer Focus ](https://work-timer.mohamedsinani.com/)**  
+#### **🕗 [Work-Timer Focus ](https://work-timer.mohamedsinani.com/)**  
 Manager your time for Deep work and focus with a Timer.
 
 #### **💰 [PangaBajeti](https://pangabajeti.undacv.cloud/)**  
