@@ -4,7 +4,7 @@
 ### Full Stack PHP Developer • Cybersecurity Specialist • Prompt Engineer • Entrepreneur  
 
 🚀 **Building scalable web applications & innovative digital solutions.**  
-📍 Based in Tanzania | 🏢 Founder @ DevMeddy | 🔒 Security-First Approach  
+📍 Based in Tanzania | 🏢 Founder @tumamaoni.com @undacv @DevMeddy | 🔒 Security-First Approach  
 
 ---
 
