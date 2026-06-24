@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Hey, I'm Mohamed Sinani  
-### Full Stack PHP Developer • Cybersecurity Specialist • AI Prompt Engineer • Entrepreneur  
+### Full Stack PHP Developer • Cybersecurity Specialist • Prompt Engineer • Entrepreneur  
 
 🚀 **Building scalable web applications & innovative digital solutions.**  
 📍 Based in Tanzania | 🏢 Founder @ DevMeddy | 🔒 Security-First Approach  
