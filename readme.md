@@ -56,7 +56,7 @@ Modern CV and resume builder that enables professionals to create ATS-friendly r
 ### 🕗 [Work-Timer Focus](https://work-timer.mohamedsinani.com/)
 A productivity timer designed for deep work, focus sessions, and better time management.
 
-### 💰 [PangaBajeti](https://pangabajeti.undacv.cloud/)
+### 💰 [PangaBajeti](https://pangabajeti.tumamaoni.com/)
 Personal finance and budgeting application that helps users plan and track their finances.
 
 ### 🌤️ [AngaYetu](https://angayetu.online/)
