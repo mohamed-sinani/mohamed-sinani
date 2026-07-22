@@ -45,11 +45,7 @@
 
 ---
 
-## 🚀 Entrepreneurial Ventures
-
-### **DevMeddy** — *Innovating one line of code at a time.*
-
-Building practical digital products that solve real-world problems.
+## 🚀 Apps That I Built and Are Ready on Production
 
 ### 💬 [TumaMaoni](https://tumamaoni.com/)
 Customer feedback collection and management platform that helps businesses collect, analyze, and act on customer feedback.
@@ -98,16 +94,13 @@ I'm open to collaborating on:
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/mohamed-sinani">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-sinani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-sinani&theme=tokyonight&hide_border=true" height="170"/>
-</a>
-</p>
 
-<p align="center">
-<a href="https://github.com/mohamed-sinani">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-sinani&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-sinani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-sinani&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-sinani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
 </p>
 
 ---
