@@ -7,25 +7,6 @@
 🚀 **Building scalable web applications & innovative digital solutions.**  
 📍 Based in Tanzania | 🏢 Founder of Tumamaoni & Undacv | 🔒 Security-First Approach
 
-<p align="center">
-<a href="https://github.com/mohamed-sinani">
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-sinani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-sinani&theme=tokyonight&hide_border=true" height="170"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/mohamed-sinani">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-sinani&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/mohamed-sinani">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-sinani&theme=tokyonight&hide_border=true&color=0e75b6" width="100%"/>
-</a>
-</p>
-
 ---
 
 ## 🛠 Tech Stack & Expertise
@@ -111,6 +92,23 @@ I'm open to collaborating on:
 - 🚀 Startup & SaaS Development
 - 🌍 Open Source Contributions
 - 👨‍🏫 Technical Mentorship
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<a href="https://github.com/mohamed-sinani">
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-sinani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-sinani&theme=tokyonight&hide_border=true" height="170"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mohamed-sinani">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-sinani&layout=compact&theme=tokyonight&hide_border=true" height="130"/>
+</a>
+</p>
 
 ---
 
