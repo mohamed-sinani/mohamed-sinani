@@ -51,36 +51,92 @@
 
 ---
 
-## 🚀 Apps That I Built and Are Ready on Production
+## 🚀 Apps in Production
 
-### 💬 [TumaMaoni](https://tumamaoni.com/)
-Customer feedback collection and management platform that helps businesses collect, analyze, and act on customer feedback.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://tumamaoni.com/"><b>💬 TumaMaoni</b></a><br/>
+      <sub>Customer feedback collection & management platform for businesses</sub>
+    </td>
+    <td align="center">
+      <a href="https://undacv.cloud/"><b>🎯 UndaCV</b></a><br/>
+      <sub>Modern ATS-friendly CV & resume builder</sub>
+    </td>
+    <td align="center">
+      <a href="https://work-timer.mohamedsinani.com/"><b>🕗 Work-Timer Focus</b></a><br/>
+      <sub>Deep-work, focus session & time management timer</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://pangabajeti.tumamaoni.com/"><b>💰 PangaBajeti</b></a><br/>
+      <sub>Personal finance & budgeting app to plan and track your money</sub>
+    </td>
+    <td align="center">
+      <a href="https://angayetu.online/"><b>🌤️ AngaYetu</b></a><br/>
+      <sub>Weather monitoring & forecasting platform</sub>
+    </td>
+    <td align="center">
+      <a href="https://nurufeed-store.netlify.app/"><b>🛒 NuruFeed Store</b></a><br/>
+      <sub>E-commerce platform for local businesses</sub>
+    </td>
+  </tr>
+</table>
 
-### 🎯 [UndaCV](https://undacv.cloud/)
-Modern CV and resume builder that enables professionals to create ATS-friendly resumes with ease.
+---
 
-### 🕗 [Work-Timer Focus](https://work-timer.mohamedsinani.com/)
-A productivity timer designed for deep work, focus sessions, and better time management.
+## 📦 Open Source & Packagist Packages
 
-### 💰 [PangaBajeti](https://pangabajeti.tumamaoni.com/)
-Personal finance and budgeting application that helps users plan and track their finances.
-
-### 🌤️ [AngaYetu](https://angayetu.online/)
-Weather monitoring and forecasting platform providing reliable weather information.
-
-### 🛒 [NuruFeed Store](https://nurufeed-store.netlify.app/)
-An e-commerce platform for local businesses to showcase and sell products online.
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://packagist.org/packages/pakuaos/app"><b>💾 PakuaOS</b></a><br/>
+      <sub>CLI tool for finding & downloading operating systems — Find. Verify. Install.</sub><br/><br/>
+      <a href="https://packagist.org/packages/pakuaos/app">
+        <img src="https://img.shields.io/packagist/v/pakuaos/app?color=blue&label=version&style=flat-square" />
+      </a>
+      <a href="https://packagist.org/packages/pakuaos/app">
+        <img src="https://img.shields.io/packagist/dt/pakuaos/app?color=green&style=flat-square" />
+      </a>
+      <a href="https://packagist.org/packages/pakuaos/app">
+        <img src="https://img.shields.io/packagist/l/pakuaos/app?style=flat-square" />
+      </a>
+      <a href="https://github.com/mohamed-sinani/pakuaos">
+        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://packagist.org/packages/autobackup/script"><b>🗄️ AutoBackup Script</b></a><br/>
+      <sub>Standalone automatic MySQL database backups sent straight to your email</sub><br/><br/>
+      <a href="https://packagist.org/packages/autobackup/script">
+        <img src="https://img.shields.io/packagist/v/autobackup/script?color=blue&label=version&style=flat-square" />
+      </a>
+      <a href="https://packagist.org/packages/autobackup/script">
+        <img src="https://img.shields.io/packagist/dt/autobackup/script?color=green&style=flat-square" />
+      </a>
+      <a href="https://packagist.org/packages/autobackup/script">
+        <img src="https://img.shields.io/packagist/l/autobackup/script?style=flat-square" />
+      </a>
+      <a href="https://github.com/mohamed-sinani/autobackup-script">
+        <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🎯 Current Focus
 
-- 🚀 Building scalable PHP applications and modern web platforms
-- 🤖 Integrating AI into business applications
-- 🔐 Enhancing cybersecurity and privacy for web systems
-- 🌍 Building products that solve real-world challenges
-- 👨‍🏫 Mentoring aspiring developers in Tanzania and beyond
-- 🌱 Growing the DevMeddy ecosystem
+| | Area | What I'm Doing |
+|---|---|---|
+| 🚀 | **Scalable PHP Applications** | Building scalable PHP apps and modern web platforms |
+| 🤖 | **AI Integration** | Integrating AI into business applications |
+| 🔐 | **Cybersecurity & Privacy** | Enhancing security and privacy for web systems |
+| 🌍 | **Real-World Solutions** | Building products that solve real-world challenges |
+| 👨‍🏫 | **Mentorship** | Mentoring aspiring developers in Tanzania and beyond |
+| 🌱 | **DevMeddy Ecosystem** | Growing the DevMeddy ecosystem |
 
 ---
 
@@ -88,12 +144,14 @@ An e-commerce platform for local businesses to showcase and sell products online
 
 I'm open to collaborating on:
 
-- 💻 Full Stack Web Development
-- 🔐 Cybersecurity & Privacy
-- 🤖 AI Integration Projects
-- 🚀 Startup & SaaS Development
-- 🌍 Open Source Contributions
-- 👨‍🏫 Technical Mentorship
+| | Area |
+|---|---|
+| 💻 | Full Stack Web Development |
+| 🔐 | Cybersecurity & Privacy |
+| 🤖 | AI Integration Projects |
+| 🚀 | Startup & SaaS Development |
+| 🌍 | Open Source Contributions |
+| 👨‍🏫 | Technical Mentorship |
 
 ---
 
