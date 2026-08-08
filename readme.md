@@ -131,9 +131,12 @@
 
 | | Area | What I'm Doing |
 |---|---|---|
-| 🚀 | **Scalable PHP Applications** | Building scalable PHP apps and modern web platforms |
-| 🤖 | **AI Integration** | Integrating AI into business applications |
+| 🐘 | **PHP** | Building scalable PHP apps and modern web platforms |
+| ⚛️ | **Next.js** | Building fast, modern full-stack web apps with React |
+| 🦫 | **Go** | Writing high-performance backend services & tools |
+| 📱 | **Dart / Flutter** | Building cross-platform mobile applications |
 | 🔐 | **Cybersecurity & Privacy** | Enhancing security and privacy for web systems |
+| 🤖 | **AI Integration** | Integrating AI into business applications |
 | 🌍 | **Real-World Solutions** | Building products that solve real-world challenges |
 | 👨‍🏫 | **Mentorship** | Mentoring aspiring developers in Tanzania and beyond |
 | 🌱 | **DevMeddy Ecosystem** | Growing the DevMeddy ecosystem |
