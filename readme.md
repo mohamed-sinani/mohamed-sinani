@@ -115,6 +115,8 @@ I'm open to collaborating on:
 
 > **"Build solutions that solve real problems, with security, simplicity, and scalability at the core."**
 
+[![committers.top badge](https://user-badge.committers.top/tanzania/mohamed-sinani.svg)](https://user-badge.committers.top/tanzania/mohamed-sinani)
+
 <img src="https://komarev.com/ghpvc/?username=mohamed-sinani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
