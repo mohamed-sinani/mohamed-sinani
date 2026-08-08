@@ -7,6 +7,12 @@
 🚀 **Building scalable web applications & innovative digital solutions.**  
 📍 Based in Tanzania | 🏢 Founder of Tumamaoni & Undacv | 🔒 Security-First Approach
 
+<p align="center">
+  <a href="https://user-badge.committers.top/tanzania/mohamed-sinani">
+    <img src="https://user-badge.committers.top/tanzania/mohamed-sinani.svg" alt="Committers.top badge" width="360" />
+  </a>
+</p>
+
 ---
 
 ## 🛠 Tech Stack & Expertise
@@ -114,8 +120,6 @@ I'm open to collaborating on:
 ### ⚡ Entrepreneurial Philosophy
 
 > **"Build solutions that solve real problems, with security, simplicity, and scalability at the core."**
-
-[![committers.top badge](https://user-badge.committers.top/tanzania/mohamed-sinani.svg)](https://user-badge.committers.top/tanzania/mohamed-sinani)
 
 <img src="https://komarev.com/ghpvc/?username=mohamed-sinani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
