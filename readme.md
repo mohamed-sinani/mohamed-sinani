@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Mohamed Sinani
 
-### Full Stack PHP Developer • Cybersecurity Specialist • Prompt Engineer • Entrepreneur
+### Full Stack Developer • Cybersecurity Specialist • Founder
 
 🚀 **Building scalable web applications & innovative digital solutions.**  
 📍 Based in Tanzania | 🏢 Founder of Tumamaoni & Undacv | 🔒 Security-First Approach
